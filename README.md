@@ -8,10 +8,7 @@ This project explores stock data from the technology sector, focusing on compani
 - [Installation](#installation)
 - [Usage](#usage)
 - [Visualization](#visualization)
-- [Risk Analysis](#risk-analysis)
-- [LSTM Prediction](#lstm-prediction)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 In this project, we work with stock market data, focusing on major tech companies (Apple, Amazon, Google, and Microsoft). Using `yfinance`, we gather historical stock data and perform data exploration, risk analysis, and stock price prediction using an LSTM model. Visualizations are created using `Seaborn` and `Matplotlib` to help understand market trends.
