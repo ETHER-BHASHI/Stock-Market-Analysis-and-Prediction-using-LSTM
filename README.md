@@ -6,8 +6,6 @@ This project explores stock data from the technology sector, focusing on compani
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Visualization](#visualization)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -32,11 +30,11 @@ If running this on your local environment, install the required dependencies:
 pip install yfinance seaborn matplotlib tensorflow
 ```
 ## **Contributing**
-Contributions are welcome! Here's how you can contribute:
+Contributions are welcome! Here's how you can contribute:  
 
 Fork the repository.
-Create a feature branch (git checkout -b feature-branch-name).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch-name).
-Open a pull request and describe your changes.
+Create a feature branch (git checkout -b feature-branch-name).  
+Commit your changes (git commit -m 'Add new feature').  
+Push to the branch (git push origin feature-branch-name).  
+Open a pull request and describe your changes.  
 Feel free to suggest new features, improve the visualizations, or optimize the LSTM mode
