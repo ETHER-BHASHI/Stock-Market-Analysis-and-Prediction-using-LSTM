@@ -31,7 +31,7 @@ If running this on your local environment, install the required dependencies:
 ```bash
 pip install yfinance seaborn matplotlib tensorflow
 ```
-##Contributing
+## **Contributing**
 Contributions are welcome! Here's how you can contribute:
 
 Fork the repository.
